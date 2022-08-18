@@ -1,2 +1,1 @@
-# TinDog
-Implemented Bootstrap and advance css
+TinDog Starting Files
